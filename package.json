@@ -25,7 +25,7 @@
   "dependencies": {
     "apollo-datasource": "^0.6.3",
     "apollo-datasource-rest": "^0.6.4",
-    "apollo-server": "^2.9.4",
+    "apollo-server": "^2.25.4",
     "isemail": "^3.2.0",
     "lodash": "^4.17.15",
     "sequelize": "^5.19.2",
